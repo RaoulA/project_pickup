@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2017 15:40:21 at https://www.kkiosk.ch/de/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.kkiosk.ch/de/ -O1 "C:\Users\Raoul\OneDrive\HSLU\ICE Campus Experience\Valora\sample\Pick up" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:40:23	Warning: 	Found for https://www.kkiosk.ch/robots.txt
+15:40:23	Warning: 	File has moved from https://www.kkiosk.ch/robots.txt to https://www.kkiosk.ch/de/404/index.php
+15:41:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=9e159089-c0c3-41ba-a63f-fdde7b9c210b
+15:43:01	Warning: 	Moved Permanently for www.kkiosk.ch/robots.txt
+15:43:01	Warning: 	Redirected link is identical because of 'URL Hack' option: www.kkiosk.ch/robots.txt and https://www.kkiosk.ch/robots.txt
+15:43:01	Warning: 	Warning moved treated for www.kkiosk.ch/robots.txt (real one is https://www.kkiosk.ch/robots.txt)
+15:43:01	Warning: 	Moved Permanently for www.kkiosk.ch/de/products/detail/?id=356
+15:43:01	Warning: 	Redirected link is identical because of 'URL Hack' option: www.kkiosk.ch/de/products/detail/?id=356 and https://www.kkiosk.ch/de/products/detail/?id=356
+15:43:01	Warning: 	File has moved from www.kkiosk.ch/de/products/detail/?id=356 to https://www.kkiosk.ch/de/products/detail/?id=356
+15:43:10	Error: 	"Not Found" (404) at link https://www.kkiosk.ch/de/404/index.php (from https://www.kkiosk.ch/layout/css/styles.css)
+15:43:30	Warning: 	Moved Temporarily for https://www.kkiosk.ch/de/app/agb/
+15:43:30	Warning: 	File has moved from https://www.kkiosk.ch/de/app/agb/ to index.html
+15:43:30	Warning: 	Moved Temporarily for https://www.kkiosk.ch/de/app/dse/
+15:43:30	Warning: 	File has moved from https://www.kkiosk.ch/de/app/dse/ to index.html
+15:43:33	Error: 	"Not Found" (404) at link https://www.kkiosk.ch/de/safe_image.php (from https://www.kkiosk.ch/layout/js/jQuery-SocialStream.js)
+15:43:33	Warning: 	Moved Permanently for www.kkiosk.ch/de/products/detail/?id=291
+15:43:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.kkiosk.ch/de/products/detail/?id=291 and https://www.kkiosk.ch/de/products/detail/?id=291
+15:43:33	Warning: 	File has moved from www.kkiosk.ch/de/products/detail/?id=291 to https://www.kkiosk.ch/de/products/detail/?id=291
+15:43:33	Warning: 	Found for https://www.kkiosk.ch/de/jobs/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+15:43:33	Warning: 	File has moved from https://www.kkiosk.ch/de/jobs/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ to https://www.kkiosk.ch/de/404/index.php
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 12 seconds : 359 links scanned, 350 files written (43522435 bytes overall) [41401191 bytes received at 215631 bytes/sec], 3124417 bytes transferred using HTTP compression in 149 files, ratio 26%, 6.8 requests per connection
+(2 errors, 18 warnings, 0 messages)

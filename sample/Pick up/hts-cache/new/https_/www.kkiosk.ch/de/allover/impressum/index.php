@@ -1,0 +1,446 @@
+<!DOCTYPE HTML>
+<html lang="de">
+<head>
+  <meta name="GENERATOR" content="IMPERIA 10.2.2_2" />
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Impressum | k kiosk</title>
+
+  		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta content="index,follow" name="robots">
+        <meta content="de" name="language">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="apple-touch-icon" href="/layout/img/favicons/apple-touch-icon.png">
+        <link rel="shortcut icon" href="/layout/img/favicons/favicon.ico">
+        <link rel="icon" type="image/png" href="/layout/img/favicons/favicon.png">
+        <link rel="manifest" href="/layout/img/favicons/manifest.json">
+        <link rel="mask-icon" href="/layout/img/favicons/safari-pinned-tab.svg" color="#3fc0f0">
+        <meta name="msapplication-TileColor" content="#3fc0f0">
+        <meta name="msapplication-TileImage" content="/layout/img/favicons/mstile.png">
+		<meta name="msapplication-config" content="/layout/img/favicons/browserconfig.xml">
+        <meta name="theme-color" content="#3fc0f0">  		<link rel="stylesheet" href="/layout/css/styles.css" media="all" />
+		<script type="text/javascript" src="/layout/js/scripts.js" defer></script>
+
+  <meta name="keywords" content="" />
+
+  <meta name="X-Imperia-Live-Info" content="59a420c2-7858-4c50-92aa-faf38bcc208b/2/128/185/186" />
+
+</head>
+
+        <body id="top" class=" de allover impressum">
+
+    	<div class="loading-overlay"><div class="preloader-logo"><img alt="k kiosk" src="/layout/img/preloader.png"></div></div>
+        <a class="clickblocker"></a>
+
+        <!--[if lt IE 9]>
+			<script type="text/javascript" src="/layout/js/html5shiv.js"></script>
+           	<link rel="stylesheet" href="/layout/css/ie_old.css">
+            <div class="infobox">
+                <h1>Veralteter Browser</h1>
+                <p>Sie verwenden einen veralteten Browser. Um die Webseite korrekt darzustellen und zu verwenden, aktualisieren Sie bitte Ihren Browser.</p>
+                <a href="http://browsehappy.com/" target="_blank" class="button">Jetzt aktualisieren</a>
+                <a class="logo" href="http://www.kkiosk.ch/"><img src="/layout/img/logo.png" alt="logo"></a>
+            </div>
+        <![endif]-->
+
+
+
+                <!-- Header -->
+        <header>
+        	<div class="inner">
+        		<div class="logo">
+                	<a href="/de/"><img src="/layout/img/logo.png" alt="k kiosk"></a>
+                </div>
+                <nav>
+                	<ul class="offernav">
+                        <li ><a href="/de/angebote/">Angebote</a></li>
+                        <li ><a href="/de/sortiment/">Sortiment</a></li>
+                        <li ><a href="/de/wettbewerbe/">Promotionen</a></li>
+                        <li ><a href="/de/app/">App</a></li> 
+                        <li ><a href="/de/engagement/">Engagement</a></li>                       
+                        <li class="menulink">
+                        	<a href="javascript:void(0);">
+                        		<div class="menuicon">
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                </div>
+                        	</a>
+                        </li>
+                    </ul>
+                </nav>
+        	</div>
+        </header>
+        <!-- // Header -->
+
+        <nav class="main-navigation">
+        	<div class="nav-container">
+                
+<div class="nav-menu first open">
+			<ul>
+				<li class="top active"><a href="/">Startseite</a></li>
+				<li class="angebote">
+					<a href="/de/angebote/">Angebote</a></li>
+				<li class="sortiment">
+					<a href="/de/sortiment/">Sortiment</a></li>
+				<li class="promo">
+					<a href="/de/wettbewerbe/">Promotionen & Wettbewerbe</a></li>
+				<li class="hasChildren app">
+					<a href="/de/app/">App</a><a href="javascript:void(0);" class="more icon-right-dir" data-subnavig="app"></a></li>
+				<li class="">
+					<a href="/de/engagement/">Engagement</a></li>
+				<li class="socialmediawand">
+					<a href="/de/socialmedia/">Social Media</a></li>
+				<li class="Jobs">
+					<a href="/de/jobs/">Jobs</a></li>
+				<li class="agenturpartner">
+					<a href="/de/agenturpartner/">Agenturpartner</a></li>
+				<li class="hasChildren ueberuns">
+					<a href="/de/ueberuns/">Über uns</a><a href="javascript:void(0);" class="more icon-right-dir" data-subnavig="ueberuns"></a></li>
+				<li class="kontakt">
+					<a href="/de/allover/standortsuche/">Standorte</a></li>
+				<li class="kontakt">
+					<a href="/de/kontakt/">Kontakt</a></li>	</ul>
+		</div>
+			<div class="nav-menu second app ">
+				<ul>
+					<li class="top "><a href="/de/app/">App</a><a href="javascript:void(0);" class="close"><div class="closeicon"><span class="line"></span><span class="line"></span></div></a></li><li class=""><a href="/de/app/faq/">Fragen & Antworten</a></li></ul>
+			</div>
+			<div class="nav-menu second ueberuns ">
+				<ul>
+					<li class="top "><a href="/de/ueberuns/">Über uns</a><a href="javascript:void(0);" class="close"><div class="closeicon"><span class="line"></span><span class="line"></span></div></a></li><li class="ueberuns"><a href="/de/ueberuns/marke/">Marke</a></li><li class="ueberuns"><a href="/de/ueberuns/geschichte/">Geschichte</a></li></ul>
+			</div>            </div>
+                        <div class="nav-sidebar">
+                <ul class="allover">
+                    <li><a class="icon-share" href="javascript:void(0);">Teilen</a></li>
+                    <li><a class="icon-search" href="/de/allover/suche/">Suche</a></li>
+                    <li><a class="icon-location" href="/de/allover/standortsuche/">Standortsuche</a></li>
+                    <li><a class="icon-mail-alt" href="/de/kontakt/">Kontakt</a></li>
+                    <li><a class="language" href="javascript:void(0);"><span>DE</span></a></li>
+                    <li><a class="country" href="/de/allover/laender/"><img alt="Schweiz" src="/layout/img/flag_ch.png"></a></li>
+                </ul>
+            </div>
+            <div class="sharing-container">
+                <div class="sharing-links">
+					<a class="whatsapp" href="whatsapp://send?text=Impressum | k kiosk" data-action="share/whatsapp/share"><i class="icon-whatsapp"></i></a>
+                    <a class="facebook"><i class="icon-facebook"></i></a>
+					<a class="twitter"><i class="icon-twitter"></i></a>
+					<a class="googleplus"><i class="icon-gplus"></i></a>
+					<a class="pinterest"><i class="icon-pinterest-circled"></i></a>
+					<a class="linkedin"><i class="icon-linkedin"></i></a>
+					<a class="xing"><i class="icon-xing"></i></a>
+                </div>
+            </div>
+            <div class="languages-container">
+                <ul>
+                    <li><a href="/de/allover/impressum/index.php" class="active german">DE</a></li>                                                                            </ul>
+            </div>
+
+
+        </nav>
+
+
+        <div class="wrapper">
+
+
+
+
+    <div id="contentSlot0" class="onerow slotFullWidth noStyle  noMargin" data-accordionID="">
+
+
+
+	<div class="inner">
+
+
+		<div class="column slotColumn1 last">
+
+	<div class="contentAnchor" id="imprint"></div>
+
+	<div class="contentTitle doubleSpacing">
+		<h1>Impressum</h1>
+	</div>
+
+	<div class="contentText noStyle lineSpacing">
+		<h3 class="sectionTitle">Disclaimer</h3>
+		<div class="text">
+			<p><strong>General</strong><br />
+Welcome to the Websites provided by Valora. Your access to and use of this Site is subject to the following terms and conditions and all applicable laws and regulations. By accessing and browsing this Site, you accept, without limitation or qualification, these Terms of Use and acknowledge that any other agreements regarding the use of this Site between you and Valora are superseded with respect to this subject matter. If you do not agree and accept, without limitation or qualification, these Terms of Use, please exit the Site.</p>
+
+<p><strong>Content ownership</strong><br />
+The Site and all of its contents including, but not limited to, all texts and images are owned and copyrighted by Valora or others with all rights reserved unless otherwise noted. Any content that is a trademark, logo, or service mark is also a registered or unregistered trademark of Valora or others. Your use of any content, except as provided in these Terms of Use, without the written permission of the content owner is strictly prohibited. You are also advised that Valora will enforce its intellectual property rights to the fullest extent of the law, including the seeking of criminal prosecution.</p>
+
+<p><strong>Use of information</strong><br />
+You may freely browse the Site, but you may only access, download or use information from this Site, including any document, images, audio and video for your own non-commercial use. You may not distribute, modify, copy, transmit, display, reuse, reproduce, publish, license, create derivative works from, transfer, sell or otherwise use information without Valora&#39;s written permission unless otherwise noted. You must retain and reproduce each and every copyright notice or other proprietary rights notice contained in any information you download. Except as otherwise permitted in this paragraph, Valora does not warrant that your use of materials displayed on the Site will not infringe rights of third parties not owned by or affiliated with Valora. You are prohibited from using any device, software, or routine to interfere or attempt to interfere with the proper working of the Site.</p>
+
+		</div>
+	</div>
+
+	<div class="contentAnchor" id="privacy"></div>
+
+	<div class="contentText noStyle lineSpacing">
+		<h3 class="sectionTitle">Copyright</h3>
+		<div class="text">
+			<p><strong>Copyright 2005 Valora Holding AG, Hofackerstrasse 40, 4132 Muttenz, Switzerland</strong></p>
+
+<p>All rights reserved. Any person is hereby authorized to view, copy, print, store and distribute the information and documents provided or available herein subject to the following conditions:</p>
+
+<ul>
+	<li>Any information, document and other items or portions thereof may be used for information and non-commercial purposes only.</li>
+	<li>Any information, document and other items or portions thereof copied, printed, stored or distributed must include Valora&#39;s Legal Notice.</li>
+	<li>Any product, process or technology referred to in the information, documents or other items may be subject to other intellectual property rights of Valora and are not made available hereunder.</li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="contentText noStyle lineSpacing">
+		<h3 class="sectionTitle">Trademarks</h3>
+		<div class="text">
+			<p>Valora, the Valora Group&#39;s logo and all other Valora brands, such as but not limited to k kiosk, avec., Press&amp;Books, Spettacolo, Ditsch, Brezelk&ouml;nig, nilo logistics, are trademarks or registered trademarks of Valora. All other product names and company logos mentioned in the information, documents or other items provided or available herein may be the trademarks of their respective owners.</p>
+
+<p><strong>Disclaimer of warranties</strong><br />
+While Valora is making great efforts to include accurate and up-to-date information, we make no representations or warranties, express or implied, as to the accuracy or completeness of the information provided on this Site.<br />
+This Site may contain forward-looking information. Such information is subject to a variety of significant uncertainties, including, business, economic and financial factors, and therefore actual results may differ significantly from those presented.</p>
+
+<p><strong>Exclusion of liability</strong><br />
+Valora disclaims any liability for the use of this Site or any site linked to it. Your use of this Site is at your own risk. This Site may contain forward-looking information. Such information is subject to a variety of significant uncertainties, including, business, economic and financial factors, and therefore actual results may differ significantly from those presented.</p>
+
+<p><strong>Third party sites</strong><br />
+This Site may contain links to sites owned or operated by parties other than Valora. Those links are provided for convenience only. Valora does not control and is not responsible for the information or privacy policies on or the security of such sites. Valora has not reviewed third party sites which contain links to this Site and is not responsible for the content of any third party sites linked to this Site. Valora does not endorse the content on such sites. If you establish a link to such sites, you do so at your own risk and without the permission of Valora. Quotation of use of one or more portions of this Site in any third party site without written consent is prohibited.</p>
+
+<p><strong>Information you supply to us</strong><br />
+Except for information covered by our privacy policy, any communication or material you transmit to the Site is and will be treated as non-confidential and nonproprietary. Anything you transmit or post becomes the property of Valora and may be used for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, Valora is free to use, without compensation to you, any ideas, concepts, know-how, or techniques contained in any communication you send to the Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information.</p>
+
+<p><strong>Disclaimer</strong><br />
+The information provided on this Site does not constitute an offer of or solicitation for the purchase or disposal of, trading or any transaction in any Valora securities. Investors must not rely on this information for investment decisions.</p>
+
+<p><strong>Updates</strong><br />
+Valora may revise this Site or the Terms of Use at any time without notice but does not assume any responsibility to update it. You are bound by any such revisions and should therefore periodically visit this Site to review the then current Terms of Use.</p>
+
+<p><strong>Law and jurisdiction</strong><br />
+These Terms of Use and your use of the Site are governed by the laws of Switzerland, without regard to its choice of law provisions. The courts of general jurisdiction located within Arlesheim, Basel-Land, Switzerland, will have exclusive jurisdiction over any and all disputes arising out of, relating to or concerning these Terms of Use and/or the Site or in which these Terms of Use and/or the Site are a material fact.</p>
+
+		</div>
+	</div>
+
+	<div class="contentText noStyle standardSpacing">
+		<h3 class="sectionTitle"> Privacy policy</h3>
+		<div class="text">
+			<p><strong>General</strong><br />
+Valora respects your privacy. Therefore, this Privacy Policy describes the ways in which we, Valora, collect, hold and disclose information. This Privacy Policy describes our practices in connection with information that we collect through Websites and any mobile Sites, applications, widgets, and other interactive features that link to this Privacy Policy. By using this Site, you consent to the collection and use of information as set forth in this Privacy Policy. By providing personal information to us, you agree to the terms and conditions of this Privacy Policy.</p>
+
+<p><strong>Use of personal data</strong><br />
+Most of our services do not require any form of registration, allowing you to visit our Site without telling us who you are. However, some services may require you to provide us with personal data. In these situations, if you choose to withhold any personal data requested by us, it may not be possible for us to respond to your query and for you to gain access to certain parts of the Site.<br />
+The term &ldquo;personal data&rdquo; as used in this Privacy Policy refers to information that can be used to identify you, such as:</p>
+
+<ul>
+	<li>Name</li>
+	<li>User name</li>
+	<li>Postal address</li>
+	<li>Telephone number</li>
+	<li>Email address</li>
+</ul>
+
+<p><strong>Non-disclosure of personal data</strong><br />
+Your personal data will not be sold or otherwise distributed to third party sites. We may disclose your personal data to other Valora divisions that agree to treat it in accordance with this Privacy Policy. Personal data may be transferred to third parties who act for or on our behalf, for further processing in accordance with the purposes for which the data were originally collected or may otherwise be lawfully processed, such as services delivery, evaluating the usefulness of this Site, marketing, data management or technical support. These third parties have contracted with us to only use Personal Data for the agreed upon purpose, and not to sell your Personal Information to third parties, and not to disclose it to third parties except as may be required by law, as permitted by us or as stated in this Privacy Policy.</p>
+
+<p><strong>Security and confidentiality</strong><br />
+To ensure the security and confidentiality of personal data that we collect online, we use data networks protected, inter alia, by industry standard firewall and password protection. In the course of handling your personal data, we take measures reasonably designed to protect that information from loss, misuse, unauthorized access, disclosure, alteration or destruction. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the &quot;Contact&quot; section.</p>
+
+<p><strong>Choices / access / Updating personal information</strong><br />
+We provide you with the opportunity to opt-out of receiving electronic communications related to the Sites. However, regardless of your opt-out preferences, Valora may still at times need to send emails for administrative reasons.<br />
+Please note that changes may not be effective immediately. We will endeavour to comply with your request as soon as reasonably practicable.<br />
+To review, correct, update or otherwise limit our use of your personal information that has been previously provided to us, you may send mail to the following postal address and clearly describe your request:</p>
+
+<p>Valora Holding AG<br />
+Hofackerstrasse 40<br />
+4132 Muttenz<br />
+Schweiz</p>
+
+<p>We will try to comply with your request as soon as reasonably practicable. Note that despite our efforts, there may be residual information that will remain within our databases and other records, which will not be removed or changed. Further, please note that we may need to retain certain information for recordkeeping purposes. Finally, we are not responsible for removing information from or updating information in the databases of third parties with whom we have already shared your Personal Information.</p>
+
+<p><strong>Cookies</strong><br />
+A cookie is a small piece of text that web sites place in the cookie file of a user&rsquo;s browsers. Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes. We may collect and process information about your visit to this website, such as the Site you visit, the website you came from and some of the searches you perform. Such information is used by us to help improve the contents of the Site, compile aggregate statistics about individuals using our Site for internal, market research purposes, better serve you with more tailored information and to facilitate your on-going access to and use of the Sites.</p>
+
+<p><strong>Google Analytics</strong><br />
+This Site uses Google Analytcs, a web analytics service provided by Google, Inc. (&ldquo;Google&rdquo;). Google Analytics uses cookies to help the Site analyse how users use the Site. The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States.</p>
+
+<p><strong>Third party sites</strong><br />
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which the Sites contain a link. The inclusion of a link on the Sites does not imply endorsement of the linked site by us or by our affiliates.</p>
+
+<p><strong>Updates</strong><br />
+You also acknowledge that Valora may change, modify this Privacy Policy without prior notification. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on a Site.</p>
+
+		</div>
+	</div>
+
+	</div>
+
+	</div>
+
+</div>
+
+
+    <div id="contentSlot1" class="onerow slotTwoColumns greybg noWidths  noMargin" data-accordionID="">
+
+
+
+	<div class="inner">
+
+
+		<div class="column slotColumn1">
+
+<div class="contentContact noStyle standardSpacing">
+        <h3 class="sectionTitle">Responsible for contents</h3>
+
+    <div class="text"><p><strong>Valora Holding AG</strong><br />
+Hofackerstrasse 40<br />
+4132 Muttenz<br />
+Switzerland</p>
+</div>
+
+
+
+            <div class="contactEntry phone"><i class="icon-phone"></i>+41 58 789 11 11</div>
+
+
+
+            <div class="contactEntry print"><i class="icon-print"></i>+41 58 789 11 12</div>
+
+
+
+                <div class="contactEntry mail-alt"><i class="icon-mail-alt"></i><a href="javascript:linkUnCryptMailto('nbjmup;jogpAwbmpsb/dpn', '1')">info@valora.com</a></div>
+
+
+
+                <div class="contactEntry link"><i class="icon-link"></i><a href="http://www.valora.com" target="_blank">www.valora.com</a></div>
+
+
+
+</div>
+
+		</div>
+
+		<div class="column slotColumn2 last">
+
+<div class="contentContact noStyle standardSpacing">
+        <h3 class="sectionTitle">Realisation Website</h3>
+
+    <div class="text"><p><strong>Mediacoding GmbH</strong><br />
+Uettligenstrasse 5<br />
+3037 Herrenschwanden<br />
+Switzerland</p>
+</div>
+
+
+
+            <div class="contactEntry phone"><i class="icon-phone"></i>+41 31 300 21 65 </div>
+
+
+
+                <div class="contactEntry mail-alt"><i class="icon-mail-alt"></i><a href="javascript:linkUnCryptMailto('nbjmup;jogpAnfejbdpejoh/di', '1')">info@mediacoding.ch</a></div>
+
+
+
+                <div class="contactEntry link"><i class="icon-link"></i><a href="http://www.mediacoding.ch/" target="_blank">www.mediacoding.ch</a></div>
+
+
+
+</div>
+
+		</div>
+		<div class="clearer"></div>
+
+	</div>
+
+</div>
+
+
+
+            <div class="push"></div>
+        </div>
+
+                    <footer class="stickyfooter">
+            <div class="footer">
+                <div class="inner">
+                    <div class="address">
+                        <a href="/de/" class="footerlogo"><img src="/layout/img/logo_footer.png" alt="k kiosk"></a>
+                        <p>
+                            <strong>Valora Schweiz AG</strong><br>
+                            Hofackerstrasse 40<br>
+                            CH-4132 Muttenz
+                        </p>
+                    </div>
+                    <div class="sitemap">
+                        <ul>
+                            <li>
+                                <a href="/de/angebote/">Angebote</a>
+                                <a href="/de/sortiment/">Sortiment</a>
+                                <a href="/de/wettbewerbe/">Wettbewerbe</a>
+                            </li>
+                            <li>
+                                <a href="/de/agenturpartner/">Agenturpartner</a>
+                                <!--<ul>
+                                    <li><a href="/de/agenturpartner/vorteile/">Vorteile</a></li>
+                                    <li><a href="/de/agenturpartner/voraussetzungen/">Voraussetzungen</a></li>
+                                    <li><a href="/de/agenturpartner/bewerbung/">Bewerbung</a></li>
+                                    <li><a href="/de/agenturpartner/faq/">FAQ</a></li>
+                                </ul> -->
+                            </li>
+                            <li>
+                                <a href="/de/ueberuns/">Über uns</a>
+                                <ul>
+                                    <li><a href="/de/ueberuns/marke/">Marke</a></li>
+                                    <li><a href="/de/ueberuns/geschichte/">Geschichte</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/de/socialmedia/">Social Media</a>
+                                <a href="/de/jobs/">Jobs</a>
+                                <a href="/de/allover/standortsuche/">Standorte</a>
+                                <a href="/de/kontakt/">Kontakt</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="socialmedia">
+                        <strong>Social Media</strong>
+                        <a href="https://www.facebook.com/kkiosk" target="_blank" class="button facebook"><i class="icon-facebook"></i><span>Facebook</span></a>
+                        <a href="https://www.instagram.com/k_kiosk/" target="_blank" class="button instagramm"><i class="icon-instagramm"></i><span>Instagram</span></a>
+                        <a href="https://twitter.com/kkiosk" target="_blank" class="button twitter"><i class="icon-twitter"></i><span>Twitter</span></a>
+                        <a href="https://www.youtube.com/user/my1kkiosk" target="_blank" class="button youtube"><i class="icon-youtube-play"></i><span>YouTube</span></a>
+                        <a href="https://www.flickr.com/photos/valora/sets/72157631588342247/" target="_blank" class="button flickr"><i class="icon-flickr-1"></i><span>Flickr</span></a>
+                        <p class="brandof">eine Marke von<br><a href="http://www.valora.com/" target="_blank"><img src="/layout/img/logo_footer_valora.png" alt="valora"></a></p>                            
+                    </div>
+                    <div class="clearfix"></div>                        
+                    <div class="copyright">
+                        <p>2017 &copy; Valora Schweiz AG</p>
+                    </div>                        
+                    <div class="imprint">
+                        <!-- <p><a href="/de/allover/impressum/#terms">Nutzungsbedingungen</a> --><p><a href="/de/allover/impressum/#privacy">Datenschutz</a><a href="/de/allover/impressum/#imprint">Impressum</a></p>
+                    </div>        
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </footer>
+
+
+            <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setCookieDomain", "*.kkiosk.ch"]);
+  _paq.push(["setDomains", ["*.kkiosk.ch","*.kkiosk.com"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.valora.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 7]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.valora.com/piwik.php?idsite=7" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+    </body>
+</html>

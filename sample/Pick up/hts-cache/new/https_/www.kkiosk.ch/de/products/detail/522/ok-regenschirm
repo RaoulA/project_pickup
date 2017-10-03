@@ -1,0 +1,232 @@
+
+
+
+
+
+
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Sortiment | k kiosk</title>
+        
+        		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta content="index,follow" name="robots">
+        <meta content="de" name="language">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="apple-touch-icon" href="/layout/img/favicons/apple-touch-icon.png">
+        <link rel="shortcut icon" href="/layout/img/favicons/favicon.ico">
+        <link rel="icon" type="image/png" href="/layout/img/favicons/favicon.png">
+        <link rel="manifest" href="/layout/img/favicons/manifest.json">
+        <link rel="mask-icon" href="/layout/img/favicons/safari-pinned-tab.svg" color="#3fc0f0">
+        <meta name="msapplication-TileColor" content="#3fc0f0">
+        <meta name="msapplication-TileImage" content="/layout/img/favicons/mstile.png">
+		<meta name="msapplication-config" content="/layout/img/favicons/browserconfig.xml">
+        <meta name="theme-color" content="#3fc0f0">        		<link rel="stylesheet" href="/layout/css/styles.css" media="all" />
+		<script type="text/javascript" src="/layout/js/scripts.js" defer></script>
+        
+        <!--IMPERIA:ONECLICKEDIT-->
+    </head>
+    
+        <body class="products detailpage" id="top">
+        
+        <!--[if lt IE 9]>
+			<script type="text/javascript" src="layout/js/html5shiv.js"></script>
+            <div class="infobox">
+                <h1>Veralteter Browser</h1>
+                <p>Sie verwenden einen veralteten Browser. Um die Webseite korrekt darzustellen und zu verwenden, aktualisieren Sie bitte Ihren Browser.</p>
+                <a href="http://browsehappy.com/" target="_blank" class="button">Jetzt aktualisieren</a>
+                <a class="logo" href="http://www.kkiosk.ch"><img src="inc/img/logo.png" alt="k kiosk"></a>
+            </div>
+            <style>
+                header, nav, .wrapper, footer, .stickyfooter, .main-navigation { display: none !important; }
+            </style>
+        <![endif]-->
+        
+        <a class="clickblocker"></a>
+        
+                <!-- Header -->
+        <header>
+        	<div class="inner">
+        		<div class="logo">
+                	<a href="/de/"><img src="/layout/img/logo.png" alt="k kiosk"></a>
+                </div>
+                <nav>
+                	<ul class="offernav">
+                        <li ><a href="/de/angebote/">Angebote</a></li>
+                        <li ><a href="/de/sortiment/">Sortiment</a></li>
+                        <li ><a href="/de/wettbewerbe/">Promotionen</a></li>
+                        <li ><a href="/de/app/">App</a></li> 
+                        <li ><a href="/de/engagement/">Engagement</a></li>                       
+                        <li class="menulink">
+                        	<a href="javascript:void(0);">
+                        		<div class="menuicon">
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                    <span class="line"></span>
+                                </div>
+                        	</a>
+                        </li>
+                    </ul>
+                </nav>
+        	</div>
+        </header>
+        <!-- // Header -->
+        
+        <nav class="main-navigation">
+        	<div class="nav-container">
+                
+<div class="nav-menu first open">
+			<ul>
+				<li class="top active"><a href="/">Startseite</a></li>
+				<li class="angebote">
+					<a href="/de/angebote/">Angebote</a></li>
+				<li class="sortiment">
+					<a href="/de/sortiment/">Sortiment</a></li>
+				<li class="promo">
+					<a href="/de/wettbewerbe/">Promotionen & Wettbewerbe</a></li>
+				<li class="hasChildren app">
+					<a href="/de/app/">App</a><a href="javascript:void(0);" class="more icon-right-dir" data-subnavig="app"></a></li>
+				<li class="">
+					<a href="/de/engagement/">Engagement</a></li>
+				<li class="socialmediawand">
+					<a href="/de/socialmedia/">Social Media</a></li>
+				<li class="Jobs">
+					<a href="/de/jobs/">Jobs</a></li>
+				<li class="agenturpartner">
+					<a href="/de/agenturpartner/">Agenturpartner</a></li>
+				<li class="hasChildren ueberuns">
+					<a href="/de/ueberuns/">Über uns</a><a href="javascript:void(0);" class="more icon-right-dir" data-subnavig="ueberuns"></a></li>
+				<li class="kontakt">
+					<a href="/de/allover/standortsuche/">Standorte</a></li>
+				<li class="kontakt">
+					<a href="/de/kontakt/">Kontakt</a></li>	</ul>
+		</div>
+			<div class="nav-menu second app ">
+				<ul>
+					<li class="top "><a href="/de/app/">App</a><a href="javascript:void(0);" class="close"><div class="closeicon"><span class="line"></span><span class="line"></span></div></a></li><li class=""><a href="/de/app/faq/">Fragen & Antworten</a></li></ul>
+			</div>
+			<div class="nav-menu second ueberuns ">
+				<ul>
+					<li class="top "><a href="/de/ueberuns/">Über uns</a><a href="javascript:void(0);" class="close"><div class="closeicon"><span class="line"></span><span class="line"></span></div></a></li><li class="ueberuns"><a href="/de/ueberuns/marke/">Marke</a></li><li class="ueberuns"><a href="/de/ueberuns/geschichte/">Geschichte</a></li></ul>
+			</div>            </div>
+                        <div class="nav-sidebar">
+                <ul class="allover">
+                    <li><a class="icon-share" href="javascript:void(0);">Teilen</a></li>
+                    <li><a class="icon-search" href="/de/allover/suche/">Suche</a></li>
+                    <li><a class="icon-location" href="/de/allover/standortsuche/">Standortsuche</a></li>
+                    <li><a class="icon-mail-alt" href="/de/kontakt/">Kontakt</a></li>
+                    <li><a class="language" href="javascript:void(0);"><span>DE</span></a></li>
+                    <li><a class="country" href="/de/allover/laender/"><img alt="Schweiz" src="/layout/img/flag_ch.png"></a></li>
+                </ul>
+            </div>
+            <div class="sharing-container">
+                <div class="sharing-links">
+					<a class="whatsapp" href="whatsapp://send?text=Sortiment | k kiosk" data-action="share/whatsapp/share"><i class="icon-whatsapp"></i></a>
+                    <a class="facebook"><i class="icon-facebook"></i></a>
+					<a class="twitter"><i class="icon-twitter"></i></a>
+					<a class="googleplus"><i class="icon-gplus"></i></a>
+					<a class="pinterest"><i class="icon-pinterest-circled"></i></a>
+					<a class="linkedin"><i class="icon-linkedin"></i></a>
+					<a class="xing"><i class="icon-xing"></i></a>
+                </div>
+            </div>
+            <div class="languages-container">
+                <ul>
+                    <li><a href="/de/products/detail/index.php" class="active german">DE</a></li>                                                                            </ul>
+            </div>
+
+
+        </nav>
+        
+	
+    	<!-- Wrapper -->
+        <div class="wrapper animsition">
+        
+	        <!-- Content --><div class="onerow slotFullWidth greybg" id="contentSlot3"><div class="inner"><div class="slotColumn1 column last"><div class="contentTextWithImage offerdetail type-new"><div class="image"><img src="/mcinfo_assets/de/d99b4196173b728af049fd36ae740ddcf0e61dff.jpeg" alt="ok.– regenschirm" /></div><div class="text"><h5 class="typeTitle neuaktuell nonfood notfall ok_kkiosk">Neu / Aktuell </h5><h3 class="sectionTitle">ok.– regenschirm</h3><p><strong>Bei Regen gibt's stylischen Schutz am k kiosk</strong></p><p>Der ok. &ndash; regenschirm ist, passend zur Saison, in neuen, angesagten Farben erh&auml;ltlich. Nebst dem Klassiker, dem Taschenschirm in schwarz, gibt es diesen handlichen Regenschirm aktuell auch in chocolate brown, almond und petrol green.</p><p>Preis: CHF 8.00</p><div class="sharing-container"><h5>Teilen / Empfehlen</h5><div class="sharing-links"><a class="whatsapp" href="whatsapp://send?text=ok.%E2%80%93%20regenschirm" data-action="share/whatsapp/share"><i class="icon-whatsapp"></i></a><a class="facebook"><i class="icon-facebook"></i></a><a class="twitter"><i class="icon-twitter"></i></a><a class="googleplus"><i class="icon-gplus"></i></a><a class="pinterest"><i class="icon-pinterest-circled"></i></a><a class="linkedin"><i class="icon-linkedin"></i></a><a class="xing"><i class="icon-xing"></i></a></div></div></div><a href="javaScript:history.back();" class="button back">Zurück</a><div class="clearer"></div></div></div></div></div><div class="onerow slotFullWidth" id="contentSlot4"><div class="inner"><div class="slotColumn1 column last"><div class="contentText standardSpacing offerdetailtext"><div class="text"><p><strong>Mit ok.&ndash; &nbsp;haben wir einen cleveren Underdog in unseren Regalen und K&uuml;hler stehen. Die <a href="http://www.valora.com/" target="_blank">Valora</a>-Eigenmarke ok.&ndash; steht im Schatten der Markenartikel und ist Superheld dank bestem Preis-Leistungsverh&auml;ltnis.</strong></p><p>Die attraktiven ok.&ndash; Produkte im Convenience (Energy Drinks, Cookies, Smoothies und mehr) und Servicebereich (Prepaid Kreditkarten, Cash, Mobile) bieten gute Produktqualit&auml;t zu fairen Preisen in einem schlicht-coolen Verpackungsdesign.</p><p>Die Produkte von <a href="http://www.okpunktstrich.ch" target="_blank">ok.&ndash;</a> gibt es exklusiv bei uns, sowie unseren Schwesterformaten <a href="http://www.pressbooks.ch" target="_blank">Press &amp; Books</a>, <a href="http://www.naville.ch" target="_blank">Naville</a>, Relay, <a href="http://www.avec.ch" target="_blank">avec.</a> und Hubiz.</p><p><a class="button" href="http://www.okpunktstrich.ch" target="_blank">okpunktstrich.ch</a></p></div></div></div></div></div><!-- // Content -->		
+			<div class="push"></div>
+        </div>
+        
+                <footer class="stickyfooter">
+            <div class="footer">
+                <div class="inner">
+                    <div class="address">
+                        <a href="/de/" class="footerlogo"><img src="/layout/img/logo_footer.png" alt="k kiosk"></a>
+                        <p>
+                            <strong>Valora Schweiz AG</strong><br>
+                            Hofackerstrasse 40<br>
+                            CH-4132 Muttenz
+                        </p>
+                    </div>
+                    <div class="sitemap">
+                        <ul>
+                            <li>
+                                <a href="/de/angebote/">Angebote</a>
+                                <a href="/de/sortiment/">Sortiment</a>
+                                <a href="/de/wettbewerbe/">Wettbewerbe</a>
+                            </li>
+                            <li>
+                                <a href="/de/agenturpartner/">Agenturpartner</a>
+                                <!--<ul>
+                                    <li><a href="/de/agenturpartner/vorteile/">Vorteile</a></li>
+                                    <li><a href="/de/agenturpartner/voraussetzungen/">Voraussetzungen</a></li>
+                                    <li><a href="/de/agenturpartner/bewerbung/">Bewerbung</a></li>
+                                    <li><a href="/de/agenturpartner/faq/">FAQ</a></li>
+                                </ul> -->
+                            </li>
+                            <li>
+                                <a href="/de/ueberuns/">Über uns</a>
+                                <ul>
+                                    <li><a href="/de/ueberuns/marke/">Marke</a></li>
+                                    <li><a href="/de/ueberuns/geschichte/">Geschichte</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/de/socialmedia/">Social Media</a>
+                                <a href="/de/jobs/">Jobs</a>
+                                <a href="/de/allover/standortsuche/">Standorte</a>
+                                <a href="/de/kontakt/">Kontakt</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="socialmedia">
+                        <strong>Social Media</strong>
+                        <a href="https://www.facebook.com/kkiosk" target="_blank" class="button facebook"><i class="icon-facebook"></i><span>Facebook</span></a>
+                        <a href="https://www.instagram.com/k_kiosk/" target="_blank" class="button instagramm"><i class="icon-instagramm"></i><span>Instagram</span></a>
+                        <a href="https://twitter.com/kkiosk" target="_blank" class="button twitter"><i class="icon-twitter"></i><span>Twitter</span></a>
+                        <a href="https://www.youtube.com/user/my1kkiosk" target="_blank" class="button youtube"><i class="icon-youtube-play"></i><span>YouTube</span></a>
+                        <a href="https://www.flickr.com/photos/valora/sets/72157631588342247/" target="_blank" class="button flickr"><i class="icon-flickr-1"></i><span>Flickr</span></a>
+                        <p class="brandof">eine Marke von<br><a href="http://www.valora.com/" target="_blank"><img src="/layout/img/logo_footer_valora.png" alt="valora"></a></p>                            
+                    </div>
+                    <div class="clearfix"></div>                        
+                    <div class="copyright">
+                        <p>2017 &copy; Valora Schweiz AG</p>
+                    </div>                        
+                    <div class="imprint">
+                        <!-- <p><a href="/de/allover/impressum/#terms">Nutzungsbedingungen</a> --><p><a href="/de/allover/impressum/#privacy">Datenschutz</a><a href="/de/allover/impressum/#imprint">Impressum</a></p>
+                    </div>        
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </footer>
+        <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setCookieDomain", "*.kkiosk.ch"]);
+  _paq.push(["setDomains", ["*.kkiosk.ch","*.kkiosk.com"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.valora.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 7]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.valora.com/piwik.php?idsite=7" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->        
+		</body>
+</html>

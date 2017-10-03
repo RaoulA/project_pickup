@@ -7,7 +7,7 @@
   <title>App | k kiosk</title>
 
   		<meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta content="index,follow" name="robots">
         <meta content="de" name="language">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -58,8 +58,8 @@
                         <li ><a href="/de/angebote/">Angebote</a></li>
                         <li ><a href="/de/sortiment/">Sortiment</a></li>
                         <li ><a href="/de/wettbewerbe/">Promotionen</a></li>
-                        <li class="current"><a href="/de/app/">App</a></li> 
-                        <li ><a href="/de/engagement/">Engagement</a></li>                       
+                        <li class="current"><a href="/de/app/">App</a></li>
+                        <li ><a href="/de/engagement/">Engagement</a></li>
                         <li class="menulink">
                         	<a href="javascript:void(0);">
                         		<div class="menuicon">
@@ -77,7 +77,7 @@
 
         <nav class="main-navigation">
         	<div class="nav-container">
-                
+
 <div class="nav-menu first ">
 			<ul>
 				<li class="top "><a href="/">Startseite</a></li>
@@ -169,9 +169,9 @@
 
 <p><strong><a href="https://itunes.apple.com/us/app/k-kiosk/id1215644802?ls=1&amp;mt=8" target="_blank"><img alt="" height="40" node-id="" src="/media/app/apple-store-badge.png" style="margin-bottom: 6px;" width="130" /></a> &nbsp; <a href="http://play.google.com/store/apps/details?id=com.valora.kkiosk" target="_blank"><img alt="" height="40" node-id="" src="/media/app/google-play-badge.png" style="margin-bottom: 6px;" width="130" /></a></strong></p>
 
-<p><strong><strong>Profitieren. Sammeln. Beschenken.</strong></strong></p>
+<p><strong><strong>Hallo ich bin ein Test </strong></strong></p>
 
-<p>In der App findest du viele, und immer wieder neue Coupons und Sammelp&auml;sse. Und das Coole an dieser App ist auch: Ist es dir gerade wichtig jemandem aus deinem Umkreis was Gutes zu tun. Dann kannst du ganz einfach jeden Coupon, der zu einem Gratis-Produkt berechtigt, weiterverschenken.</p>
+<p>Ich zeige mich zum Schluss. der App findest du viele, und immer wieder neue Coupons und Sammelp&auml;sse. Und das Coole an dieser App ist auch: Ist es dir gerade wichtig jemandem aus deinem Umkreis was Gutes zu tun. Dann kannst du ganz einfach jeden Coupon, der zu einem Gratis-Produkt berechtigt, weiterverschenken.</p>
 
 		</div>
         <div class="clearer"></div>
@@ -407,15 +407,15 @@
                         <a href="https://twitter.com/kkiosk" target="_blank" class="button twitter"><i class="icon-twitter"></i><span>Twitter</span></a>
                         <a href="https://www.youtube.com/user/my1kkiosk" target="_blank" class="button youtube"><i class="icon-youtube-play"></i><span>YouTube</span></a>
                         <a href="https://www.flickr.com/photos/valora/sets/72157631588342247/" target="_blank" class="button flickr"><i class="icon-flickr-1"></i><span>Flickr</span></a>
-                        <p class="brandof">eine Marke von<br><a href="http://www.valora.com/" target="_blank"><img src="/layout/img/logo_footer_valora.png" alt="valora"></a></p>                            
+                        <p class="brandof">eine Marke von<br><a href="http://www.valora.com/" target="_blank"><img src="/layout/img/logo_footer_valora.png" alt="valora"></a></p>
                     </div>
-                    <div class="clearfix"></div>                        
+                    <div class="clearfix"></div>
                     <div class="copyright">
                         <p>2017 &copy; Valora Schweiz AG</p>
-                    </div>                        
+                    </div>
                     <div class="imprint">
                         <!-- <p><a href="/de/allover/impressum/#terms">Nutzungsbedingungen</a> --><p><a href="/de/allover/impressum/#privacy">Datenschutz</a><a href="/de/allover/impressum/#imprint">Impressum</a></p>
-                    </div>        
+                    </div>
                     <div class="clearfix"></div>
                 </div>
             </div>

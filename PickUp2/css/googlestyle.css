@@ -1,1 +1,426 @@
-body {    background-color: #fff;}#storefinder_map_wrapper{    height:100%;    overflow:visible;}#storefinder_map_{    height: 90%;    height: calc(100% - 150px);    min-height: 650px;    min-height: 80vh;}#storefinder_map_toolbar {    width: 100%;    background: rgba(255, 255, 255, .85);    padding: 20px 12px 20px 12px;}/*reihe in toolbar/map-wrapper*/.storefinder_map_toolbar_row,.storefinder_map_row{    text-align: center;}.storefinder_map_toolbar_row>div {    display:inline-block;    vertical-align:middle;    margin:0 36px;}.storefinder_map_row {    padding: 20px 0;    background: #fff;    position: relative;}#storefinder_map_types{    position:relative;}#storefinder_map_types>div[data-maptype]{    width: 30px;    height: 30px;    border: 4px solid #000;    border-radius: 50%;    display: inline-block;    cursor: pointer;    margin: 0 6px;}#storefinder_map_types>div[data-maptype]::after {    content: attr(data-label);    position: relative;    display: block;    font-weight: bold;    font-size: .9em;}#storefinder_map_types>div[data-maptype="ROADMAP"]::after {    top: 33px;    left: -5px;}#storefinder_map_types>div[data-maptype="HYBRID"]::after {    top: 33px;    left: 0px;}#storefinder_map_types>div[data-maptype="SATELLITE"]::after {    top: 33px;    left: -1px;}#storefinder_map_types>div[data-maptype="ROADMAP"]{    background:  url(uploads/images/css/maptype_satellit.png) no-repeat center;}#storefinder_map_types>div[data-maptype="HYBRID"]{    background: url(uploads/images/css/maptype_karte_hybrid.png) no-repeat center;}#storefinder_map_types>div[data-maptype="SATELLITE"]{    background: url(uploads/images/css/maptype_karte_hybrid.png) no-repeat center;}img[class^=storefinder_filter_format_] {    margin: 2px;    cursor: pointer;    width: 50px;}#storefinder_map_wrapper img[data-filter-on], #storefinder_map_wrapper div[data-filter-on] {    opacity: .3;}#storefinder_map_services {    text-align: center;    padding: 15px 4px;}img[class^=storefinder_filter_service_] {    margin: 2px;    cursor: pointer;    height: 30px;}input[placeholder] {    text-overflow: ellipsis;}::-moz-placeholder {    text-overflow: ellipsis;} input:-moz-placeholder {    text-overflow: ellipsis;}input[id^=storefinder_ac] {    width: 96%;    min-width: 150px;    border-radius: 10px;    border: 1px solid #000;    padding: 9px 10px;    color: #000;    font-size: 18px;}#storefinder_ac_map {    max-width: 680px;}#storefinder_geolocate_input_holder {    position: relative;    width: 50%;    width: 100vh;    min-width: 300px;    margin: 0 auto;    text-align: center;}#storefinder_map svg>* {    cursor: pointer !important;    -webkit-user-select: none;    -khtml-user-drag: none;    -khtml-user-select: none;    -moz-user-select: none;    -moz-user-select: -moz-none;    -ms-user-select: none;    user-select: none;    -webkit-touch-callout: none;    -webkit-user-drag: none;}#storefinder_map_toolbar_slider,#storefinder_map_toolbar_slider * {    -webkit-user-select: none;    -khtml-user-drag: none;    -khtml-user-select: none;    -moz-user-select: none;    -moz-user-select: -moz-none;    -ms-user-select: none;    user-select: none;    -webkit-touch-callout: none;    -webkit-user-drag: none;}.storefinder_geolocate{ background: url(uploads/images/css/geolocation.png) no-repeat center center; height:100%; width:40px; position:relative; display:inline-block; left:-45px; bottom: -2px; font-size:24px; cursor:pointer;}.storefinder_iw {    padding: 3%;    width: 80%;    max-width: 300px;    display: inline-block;    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    box-sizing: border-box;    color: #000;}.storefinder_iw_h1 {    display: block;    font-size: 1.2em;    font-weight: bold;    margin: 4px;}.storefinder_iw_address span {    display: block;    font-style: normal;}.storefinder_iw_distance {    padding: 0 5px;    line-height: 30px;    vertical-align: middle;    }.storefinder_iw_distance[data-distance$="km"]{    border: 1px solid #000;}.storefinder_iw_distance a {    color: #000;    text-decoration: none;}.storefinder_iw_distance span {    line-height: normal;    text-align: center;    display: inline-block;}.storefinder_iw ul.isopen li {    font-weight: bold;}.storefinder_iw .open_times>li>*{    display: block;}.storefinder_iw ul {    padding: 0;}.storefinder_iw ul.isopen li {    background: url(uploads/images/css/store_open.png) no-repeat left top;    padding: 0px 0px 7px 20px;    list-style: none;    margin: 0;}.storefinder_iw ul.isclosed li {    background: url(uploads/images/css/store_closed.png) no-repeat left top;    padding: 0px 0px 7px 20px;    list-style: none;    margin: 0;}.storefinder_iw ul.isopen{    list-style-image:url(uploads/images/css/store_open.png);  }.storefinder_iw ul.isclosed{    list-style-image:url(uploads/images/css/store_closed.png);  }.storefinder_list_item_service_logo {    height: 24px;}#storefinder_list {    background: #f8f8f8;    height: 650px;    margin-bottom: 10%;    clear: both;    margin-top: 100px;}#storefinder_list_input_holder input {    margin-bottom: 2%;}.storefinder_list_formelement input[type="radio"] {    margin-right: 10px;}.storefinder_list_formelement {    margin: 3% 0;}#storefinder_list > .storefinder_list_wrapper {    width: 100%;    max-width: 1280px;    height: 600px;    margin: 0 auto;    text-align: center;    padding: 30px 0;    overflow: hidden;}.storefinder_list_wrapper h1 {    max-width: 1280px;}#storefinder_list > .storefinder_list_wrapper > .storefinder_list_column {    float: left;    width: 40%;    padding-left: 4.5%;    padding-right: 4.5%;    text-align: left;}#storefinder_list > .storefinder_list_wrapper > .storefinder_list_column > .storefinder_list_item_holder {    height: 50%;}.storefinder_list_item_holder_title {    margin-left: 1%;}#storefinder_list_items {    height: 510px;    overflow: scroll;}#storefinder_list_items_placeholder h3 {    margin-top: 0;}#storefinder_list_items_placeholder {    background: #fff;    color: #000;    width: 96%;    max-width: 482px;    padding: 10px;    margin: 5px;}#storefinder_list_items div[id^=storefinder_list_item_] {    padding: 10px;    margin: 5px;    background: #fff;    clear: both;    position: relative;    height: 100%;}div[id^=storefinder_list_item_] address > span,div[id^=storefinder_list_item_] address > strong {    display: block;    font-style: normal;    color: #888;    margin: 1% 0;}div[id^=storefinder_list_item_] .storefinder_list_item_intoview {    width: 62px;    height: 43px;    background: url('img/storefinder-intoview-button.png') center no-repeat;    background-size: 100%;    cursor: pointer;    display: inline-block;    position: absolute;    bottom: 7%;    right: 3%;}select[id^=storefinder_list_day] {    width: 100%;    min-width: 150px;}#storefinder_list_openat {    width: 96%;    min-width: 150px;    font-size: 18px;    border-radius: 10px;    border: 1px solid #000;    padding: 9px 10px;    color: #000;}#storefinder_map_types>img[data-filter-on],#storefinder_map_types>div[data-filter-on] {    border: 4px solid #fff;    opacity: 0.8;    color: #999;}#storefinder_map svg>* {    cursor: pointer !important;}#storefinder_map_toolbar_slider,#storefinder_map_toolbar_slider * {    -webkit-user-select: none;    -khtml-user-drag: none;    -khtml-user-select: none;    -moz-user-select: none;    -moz-user-select: -moz-none;    -ms-user-select: none;    user-select: none;}#storefinder_map_rightbar,#storefinder_map_leftbar {    background: #fff;    border-color: silver;    border-style: solid;    width: 80px;max-height:80%;overflow:auto;}#storefinder_map_rightbar>*>*,#storefinder_map_leftbar>*>* {    display:block}#storefinder_map_leftbar {    border-radius: 0 0 10px 0;    border-width: 0 2px 2px 0;}#storefinder_map_rightbar {    border-radius: 0 0 0 10px;    border-width: 0 0 2px 2px;}.storefinder_knobs {    display: inline-block;}.storefinder_knob_plus,.storefinder_knob_minus {      height: 44px;    display: inline-block;    width: 44px;    cursor: pointer;    margin: 0 10px;}.storefinder_knob_plus {    background: url(uploads/images/css/knob_plus.png) no-repeat;}.storefinder_knob_minus {    background: url(uploads/images/css/knob_minus.png) no-repeat;}#storefinder_map_toolbar_slider line {    stroke: #00abe4 !important;}#storefinder_map_toolbar_slider rect {    stroke: #00abe4 !important;    fill: #fff !important;}@media only screen and (max-width: 1024px) {    #storefinder_ac_map {	max-width: 69%;    }    #storefinder_list {	height: 750px;    }    #storefinder_list > .storefinder_list_wrapper {	height: 100%;	max-width: 80%;    }    #storefinder_list > .storefinder_list_wrapper > .storefinder_list_column {	float: none;	width: 90%;	max-width: 932px;    }    .storefinder_list_formelement {	margin: 10px 0;    }    .storefinder_list_items_holder {	margin-top: 30px;	padding-bottom: 30px;    }    #storefinder_list_items {	height: 360px;    }}@media only screen and (max-width: 585px) {    #storefinder_map_types {	margin-bottom: 20px;    }}@media only screen and (max-width: 480px) {    #storefinder_map_{	min-height: 500px;	min-height: 90vh;    }    .storefinder_iw {	max-width: 250px;    }    #storefinder_ac_map {	font-size: 18px;    }}
+body {
+    background-color: #fff;
+}
+#storefinder_map_wrapper {
+    height: 100%;
+    overflow: visible;
+}
+#storefinder_map_ {
+    height: 90%;
+    height: calc(100% - 150px);
+    min-height: 650px;
+    min-height: 80vh;
+}
+#storefinder_map_toolbar {
+    width: 100%;
+    background: rgba(255, 255, 255, .85);
+    padding: 20px 12px 20px 12px;
+}
+/*reihe in toolbar/map-wrapper*/
+
+.storefinder_map_toolbar_row,
+.storefinder_map_row {
+    text-align: center;
+}
+.storefinder_map_toolbar_row>div {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 36px;
+}
+.storefinder_map_row {
+    padding: 20px 0;
+    background: #fff;
+    position: relative;
+}
+#storefinder_map_types {
+    position: relative;
+}
+#storefinder_map_types>div[data-maptype] {
+    width: 30px;
+    height: 30px;
+    border: 4px solid #000;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 6px;
+}
+#storefinder_map_types>div[data-maptype]::after {
+    content: attr(data-label);
+    position: relative;
+    display: block;
+    font-weight: bold;
+    font-size: .9em;
+}
+#storefinder_map_types>div[data-maptype="ROADMAP"]::after {
+    top: 33px;
+    left: -5px;
+}
+#storefinder_map_types>div[data-maptype="HYBRID"]::after {
+    top: 33px;
+    left: 0px;
+}
+#storefinder_map_types>div[data-maptype="SATELLITE"]::after {
+    top: 33px;
+    left: -1px;
+}
+#storefinder_map_types>div[data-maptype="ROADMAP"] {
+    background: url(uploads/images/css/maptype_satellit.png) no-repeat center;
+}
+#storefinder_map_types>div[data-maptype="HYBRID"] {
+    background: url(uploads/images/css/maptype_karte_hybrid.png) no-repeat center;
+}
+#storefinder_map_types>div[data-maptype="SATELLITE"] {
+    background: url(uploads/images/css/maptype_karte_hybrid.png) no-repeat center;
+}
+img[class^=storefinder_filter_format_] {
+    margin: 2px;
+    cursor: pointer;
+    width: 50px;
+}
+#storefinder_map_wrapper img[data-filter-on],
+#storefinder_map_wrapper div[data-filter-on] {
+    opacity: .3;
+}
+#storefinder_map_services {
+    text-align: center;
+    padding: 15px 4px;
+}
+img[class^=storefinder_filter_service_] {
+    margin: 2px;
+    cursor: pointer;
+    height: 30px;
+}
+input[placeholder] {
+    text-overflow: ellipsis;
+}
+::-moz-placeholder {
+    text-overflow: ellipsis;
+}
+input:-moz-placeholder {
+    text-overflow: ellipsis;
+}
+input[id^=storefinder_ac] {
+    width: 96%;
+    min-width: 150px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 9px 10px;
+    color: #000;
+    font-size: 18px;
+}
+#storefinder_ac_map {
+    max-width: 680px;
+}
+#storefinder_geolocate_input_holder {
+    position: relative;
+    width: 50%;
+    width: 100vh;
+    min-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+#storefinder_map svg>* {
+    cursor: pointer !important;
+    -webkit-user-select: none;
+    -khtml-user-drag: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-drag: none;
+}
+#storefinder_map_toolbar_slider,
+#storefinder_map_toolbar_slider * {
+    -webkit-user-select: none;
+    -khtml-user-drag: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-drag: none;
+}
+.storefinder_geolocate {
+    background: url(uploads/images/css/geolocation.png) no-repeat center center;
+    height: 100%;
+    width: 40px;
+    position: relative;
+    display: inline-block;
+    left: -45px;
+    bottom: -2px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.storefinder_iw {
+    padding: 3%;
+    width: 80%;
+    max-width: 300px;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #000;
+}
+.storefinder_iw_h1 {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 4px;
+}
+.storefinder_iw_address span {
+    display: block;
+    font-style: normal;
+}
+.storefinder_iw_distance {
+    padding: 0 5px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+.storefinder_iw_distance[data-distance$="km"] {
+    border: 1px solid #000;
+}
+.storefinder_iw_distance a {
+    color: #000;
+    text-decoration: none;
+}
+.storefinder_iw_distance span {
+    line-height: normal;
+    text-align: center;
+    display: inline-block;
+}
+.storefinder_iw ul.isopen li {
+    font-weight: bold;
+}
+.storefinder_iw .open_times>li>* {
+    display: block;
+}
+.storefinder_iw ul {
+    padding: 0;
+}
+.storefinder_iw ul.isopen li {
+    background: url(uploads/images/css/store_open.png) no-repeat left top;
+    padding: 0px 0px 7px 20px;
+    list-style: none;
+    margin: 0;
+}
+.storefinder_iw ul.isclosed li {
+    background: url(uploads/images/css/store_closed.png) no-repeat left top;
+    padding: 0px 0px 7px 20px;
+    list-style: none;
+    margin: 0;
+}
+.storefinder_iw ul.isopen {
+    list-style-image: url(uploads/images/css/store_open.png);
+}
+.storefinder_iw ul.isclosed {
+    list-style-image: url(uploads/images/css/store_closed.png);
+}
+.storefinder_list_item_service_logo {
+    height: 24px;
+}
+#storefinder_list {
+    background: #f8f8f8;
+    height: 650px;
+    margin-bottom: 10%;
+    clear: both;
+    margin-top: 100px;
+}
+#storefinder_list_input_holder input {
+    margin-bottom: 2%;
+}
+.storefinder_list_formelement input[type="radio"] {
+    margin-right: 10px;
+}
+.storefinder_list_formelement {
+    margin: 3% 0;
+}
+#storefinder_list > .storefinder_list_wrapper {
+    width: 100%;
+    max-width: 1280px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+    overflow: hidden;
+}
+.storefinder_list_wrapper h1 {
+    max-width: 1280px;
+}
+#storefinder_list > .storefinder_list_wrapper > .storefinder_list_column {
+    float: left;
+    width: 40%;
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+    text-align: left;
+}
+#storefinder_list > .storefinder_list_wrapper > .storefinder_list_column > .storefinder_list_item_holder {
+    height: 50%;
+}
+.storefinder_list_item_holder_title {
+    margin-left: 1%;
+}
+#storefinder_list_items {
+    height: 510px;
+    overflow: scroll;
+}
+#storefinder_list_items_placeholder h3 {
+    margin-top: 0;
+}
+#storefinder_list_items_placeholder {
+    background: #fff;
+    color: #000;
+    width: 96%;
+    max-width: 482px;
+    padding: 10px;
+    margin: 5px;
+}
+#storefinder_list_items div[id^=storefinder_list_item_] {
+    padding: 10px;
+    margin: 5px;
+    background: #fff;
+    clear: both;
+    position: relative;
+    height: 100%;
+}
+div[id^=storefinder_list_item_] address > span,
+div[id^=storefinder_list_item_] address > strong {
+    display: block;
+    font-style: normal;
+    color: #888;
+    margin: 1% 0;
+}
+div[id^=storefinder_list_item_] .storefinder_list_item_intoview {
+    width: 62px;
+    height: 43px;
+    background: url('img/storefinder-intoview-button.png') center no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    bottom: 7%;
+    right: 3%;
+}
+select[id^=storefinder_list_day] {
+    width: 100%;
+    min-width: 150px;
+}
+#storefinder_list_openat {
+    width: 96%;
+    min-width: 150px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 9px 10px;
+    color: #000;
+}
+#storefinder_map_types>img[data-filter-on],
+#storefinder_map_types>div[data-filter-on] {
+    border: 4px solid #fff;
+    opacity: 0.8;
+    color: #999;
+}
+#storefinder_map svg>* {
+    cursor: pointer !important;
+}
+#storefinder_map_toolbar_slider,
+#storefinder_map_toolbar_slider * {
+    -webkit-user-select: none;
+    -khtml-user-drag: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#storefinder_map_rightbar,
+#storefinder_map_leftbar {
+    background: #fff;
+    border-color: silver;
+    border-style: solid;
+    width: 80px;
+    max-height: 80%;
+    overflow: auto;
+}
+#storefinder_map_rightbar>*>*,
+#storefinder_map_leftbar>*>* {
+    display: block
+}
+#storefinder_map_leftbar {
+    border-radius: 0 0 10px 0;
+    border-width: 0 2px 2px 0;
+}
+#storefinder_map_rightbar {
+    border-radius: 0 0 0 10px;
+    border-width: 0 0 2px 2px;
+}
+.storefinder_knobs {
+    display: inline-block;
+}
+.storefinder_knob_plus,
+.storefinder_knob_minus {
+    height: 44px;
+    display: inline-block;
+    width: 44px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+.storefinder_knob_plus {
+    background: url(uploads/images/css/knob_plus.png) no-repeat;
+}
+.storefinder_knob_minus {
+    background: url(uploads/images/css/knob_minus.png) no-repeat;
+}
+#storefinder_map_toolbar_slider line {
+    stroke: #00abe4 !important;
+}
+#storefinder_map_toolbar_slider rect {
+    stroke: #00abe4 !important;
+    fill: #fff !important;
+}
+@media only screen and (max-width: 1024px) {
+    #storefinder_ac_map {
+        max-width: 69%;
+    }
+    #storefinder_list {
+        height: 750px;
+    }
+    #storefinder_list > .storefinder_list_wrapper {
+        height: 100%;
+        max-width: 80%;
+    }
+    #storefinder_list > .storefinder_list_wrapper > .storefinder_list_column {
+        float: none;
+        width: 90%;
+        max-width: 932px;
+    }
+    .storefinder_list_formelement {
+        margin: 10px 0;
+    }
+    .storefinder_list_items_holder {
+        margin-top: 30px;
+        padding-bottom: 30px;
+    }
+    #storefinder_list_items {
+        height: 360px;
+    }
+}
+@media only screen and (max-width: 585px) {
+    #storefinder_map_types {
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    #storefinder_map_ {
+        min-height: 500px;
+        min-height: 90vh;
+    }
+    .storefinder_iw {
+        max-width: 250px;
+    }
+    #storefinder_ac_map {
+        font-size: 18px;
+    }
+}

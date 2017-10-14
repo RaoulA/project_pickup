@@ -26,7 +26,7 @@ ul{
 }
 .button_1{
   height:38px;
-  background: #e8491d;
+  background: #B22222;
   border: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -136,7 +136,7 @@ header a:hover{
   padding: 15px;
   margin-top: 20px;
   color: #ffffff;
-  background: #35424a;
+  background: #00BFFF;
 }
 
 #newsletter2 h1{
@@ -171,6 +171,10 @@ header a:hover{
 }
 #boxes .box i{
   width: 90px;
+}
+
+#boxes .box a{
+  text-decoration: none;
 }
 
 /*sidebar*/
@@ -211,7 +215,7 @@ ul#contact{
  #google{
    padding: 15px;
    color: #ffffff;
-   background: #35424a;
+   background: #00BFFF;
  }
 
  #google h1{

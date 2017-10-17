@@ -31,6 +31,8 @@ ul{
   padding-left: 20px;
   padding-right: 20px;
   color:#ffffff;
+  border-radius: 4px;
+  font-size: 14px;
 }
 .button_2{
   height:25px;
@@ -40,6 +42,8 @@ ul{
   padding-left: 20px;
   padding-right: 20px;
   color:#ffffff;
+  border-radius: 4px;
+  font-size: 14px;
 }
 .dark {
   width: 100%;

@@ -19,6 +19,13 @@ body{
   margin-top:10px;
   margin-bottom: 10px;
 }
+.container3{
+  width: 100%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-bottom: 	#808080 3px solid;
+}
 ul{
   margin:0;
   padding: 0;
@@ -264,19 +271,19 @@ ul#contact{
 
 /*grey container homepage*/
 .pickuphome{
-  background-color: rgb(200, 200, 200);
+
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .where{
-  background-color: rgb(180, 180, 180);
+
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .grey{
-  background-color: rgb(160, 160, 160);
+
   padding-top: 50px;
   padding-bottom: 50px;
 }

@@ -12,6 +12,7 @@ body{
   width:80%;
   margin: auto;
   overflow: hidden;
+
 }
 .container2{
   width: 100%;
@@ -26,6 +27,15 @@ body{
   margin-bottom: 10px;
   border-bottom: 	#808080 3px solid;
 }
+.container4{
+  width:80%;
+  margin: auto;
+  overflow: hidden;
+  max-height: 200px;
+
+
+}
+
 ul{
   margin:0;
   padding: 0;
@@ -145,6 +155,8 @@ header a:hover{
 }
 
 #newsletter h1{
+  font-size: 25px;
+  font-size: 1.5vw;
   float: left;
 }
 
@@ -156,7 +168,7 @@ header a:hover{
 #newsletter input[type="email"]{
 
   height:25px;
-  width:250px;
+  width: auto;
 }
 /*Newsletter2*/
 #newsletter2{
